@@ -2,6 +2,7 @@
   "name": "ra-components-class",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://silverscreened19.github.io/ra-components-class/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
