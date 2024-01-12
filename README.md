@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/132lgq6lmwqoxe7n?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-components-class)
 
+https://silverscreened19.github.io/ra-components-class/
+
 Страница интернет-магазина
 ===
 
